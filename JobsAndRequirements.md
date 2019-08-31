@@ -26,7 +26,7 @@
 
 > （3）熟悉JS/AS/AJAX/HTML5/CSS等前端开发技术。
 
-## 1. [华为 软件测试工程师](http://career.huawei.com/reccampportal/campus4_index.html#campus4/pages/joblist/jobDetail.html?jobId=96271&d=1566721463184&type=2) 2019.08.31
+## 2. [华为 软件测试工程师](http://career.huawei.com/reccampportal/campus4_index.html#campus4/pages/joblist/jobDetail.html?jobId=96271&d=1566721463184&type=2) 2019.08.31
 
 **岗位职责**
 
