@@ -35,3 +35,9 @@
 
 ## Python
 > 1. [华为 软件开发工程师](http://career.huawei.com/reccampportal/campus4_index.html#campus4/pages/joblist/jobDetail.html?jobId=96297&d=1566721316359&type=2) 2019.08.31
+
+## TCP/IP (网络协议规范)
+> 1. [华为 软件测试工程师](http://career.huawei.com/reccampportal/campus4_index.html#campus4/pages/joblist/jobDetail.html?jobId=96271&d=1566721463184&type=2) 2019.08.31
+
+## 3GPP (网络协议规范)
+> 1. [华为 软件测试工程师](http://career.huawei.com/reccampportal/campus4_index.html#campus4/pages/joblist/jobDetail.html?jobId=96271&d=1566721463184&type=2) 2019.08.31
