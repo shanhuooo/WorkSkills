@@ -9,6 +9,9 @@
 ## AJAX
 > 1. [华为 软件开发工程师](http://career.huawei.com/reccampportal/campus4_index.html#campus4/pages/joblist/jobDetail.html?jobId=96297&d=1566721316359&type=2) 2019.08.31
 
+## Angular
+> 1. [寒武纪 全栈开发工程师 上海张江](http://joinus.cambricon.com/campus_apply/cambricon/1112#/job/b46f6932-f60b-4868-a34a-ff30e654462a?_k=57f5pl) 2019.09.03
+
 ## AS
 > 1. [华为 软件开发工程师](http://career.huawei.com/reccampportal/campus4_index.html#campus4/pages/joblist/jobDetail.html?jobId=96297&d=1566721316359&type=2) 2019.08.31
 
@@ -17,6 +20,8 @@
 
 ## CSS
 > 1. [华为 软件开发工程师](http://career.huawei.com/reccampportal/campus4_index.html#campus4/pages/joblist/jobDetail.html?jobId=96297&d=1566721316359&type=2) 2019.08.31
+
+> 2. [寒武纪 全栈开发工程师 上海张江](http://joinus.cambricon.com/campus_apply/cambricon/1112#/job/b46f6932-f60b-4868-a34a-ff30e654462a?_k=57f5pl) 2019.09.03
 
 ## Go
 > 1. [华为 软件开发工程师](http://career.huawei.com/reccampportal/campus4_index.html#campus4/pages/joblist/jobDetail.html?jobId=96297&d=1566721316359&type=2) 2019.08.31
@@ -32,6 +37,9 @@
 
 ## JS
 > 1. [华为 软件开发工程师](http://career.huawei.com/reccampportal/campus4_index.html#campus4/pages/joblist/jobDetail.html?jobId=96297&d=1566721316359&type=2) 2019.08.31
+
+## MySQL
+> 1. [寒武纪 全栈开发工程师 上海张江](http://joinus.cambricon.com/campus_apply/cambricon/1112#/job/b46f6932-f60b-4868-a34a-ff30e654462a?_k=57f5pl) 2019.09.03
 
 ## Python
 > 1. [华为 软件开发工程师](http://career.huawei.com/reccampportal/campus4_index.html#campus4/pages/joblist/jobDetail.html?jobId=96297&d=1566721316359&type=2) 2019.08.31
