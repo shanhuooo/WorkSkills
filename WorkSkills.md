@@ -15,8 +15,13 @@
 ## AS
 > 1. [华为 软件开发工程师](http://career.huawei.com/reccampportal/campus4_index.html#campus4/pages/joblist/jobDetail.html?jobId=96297&d=1566721316359&type=2) 2019.08.31
 
+## C
+> 1. [IBM AI算法软件工程师 上海,宁波,北京, 西安](https://campus.liepin.com/xycompany/v170863/job.html?id=774) 2019.09.03
+
 ## C++
 > 1. [华为 软件开发工程师](http://career.huawei.com/reccampportal/campus4_index.html#campus4/pages/joblist/jobDetail.html?jobId=96297&d=1566721316359&type=2) 2019.08.31
+
+> 2. [IBM AI算法软件工程师 上海,宁波,北京, 西安](https://campus.liepin.com/xycompany/v170863/job.html?id=774) 2019.09.03
 
 ## CSS
 > 1. [华为 软件开发工程师](http://career.huawei.com/reccampportal/campus4_index.html#campus4/pages/joblist/jobDetail.html?jobId=96297&d=1566721316359&type=2) 2019.08.31
@@ -35,6 +40,8 @@
 ## Java
 > 1. [华为 软件开发工程师](http://career.huawei.com/reccampportal/campus4_index.html#campus4/pages/joblist/jobDetail.html?jobId=96297&d=1566721316359&type=2) 2019.08.31
 
+> 2. [IBM AI算法软件工程师 上海,宁波,北京, 西安](https://campus.liepin.com/xycompany/v170863/job.html?id=774) 2019.09.03
+
 ## JS
 > 1. [华为 软件开发工程师](http://career.huawei.com/reccampportal/campus4_index.html#campus4/pages/joblist/jobDetail.html?jobId=96297&d=1566721316359&type=2) 2019.08.31
 
@@ -43,6 +50,8 @@
 
 ## Python
 > 1. [华为 软件开发工程师](http://career.huawei.com/reccampportal/campus4_index.html#campus4/pages/joblist/jobDetail.html?jobId=96297&d=1566721316359&type=2) 2019.08.31
+
+> 2. [IBM AI算法软件工程师 上海,宁波,北京, 西安](https://campus.liepin.com/xycompany/v170863/job.html?id=774) 2019.09.03
 
 ## TCP/IP (网络协议规范)
 > 1. [华为 软件测试工程师](http://career.huawei.com/reccampportal/campus4_index.html#campus4/pages/joblist/jobDetail.html?jobId=96271&d=1566721463184&type=2) 2019.08.31
